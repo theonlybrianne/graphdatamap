@@ -5,13 +5,16 @@ This GitHub repository contains the procedure and template workbooks developed f
 <br><br>
 Contents Include: <br>
 - GraphDataMap-SystemSurveyTemplate.xlsx <br>
+- GraphDataMap-BulkInitialUpload.xlsx <br>
 <br>
 
 Coming Soon: <br>
-- GraphDataMap-BulkInitialUpload.xlsx <br>
 - GraphDataMap-ProcessOverviewFlow<br>
 - GraphDataMap-GettingStartedGuide <br>
 <br>
 
-Last updated 4/12/19 <br>
+View the Getting Started Guide (coming soon) for instructions on how to use the templates.<br>
+<br>
+
+Last updated 4/14/19 <br>
 By Brianne Fahey <i>[twitter: @thebriannefahey]</i>
